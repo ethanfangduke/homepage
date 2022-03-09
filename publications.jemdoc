@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{publications.html}, showsource
+= Zhaoran Wang -- Research
+
+== Publications
+
+~~~
+{}
+: {*[http://arxiv.org/abs/1306.4960 Optimal Computational and Statistical Rates of Convergence for Sparse Nonconvex Learning Problems]*}
+Zhaoran Wang, [http://www.princeton.edu/~hanliu/ Han Liu], [http://stat.rutgers.edu/~tzhang/ Tong Zhang] --- /submitted, May, 2013/.
+~~~
+
+~~~
+{}
+: {*[http://arxiv.org/abs/1307.0164 Sparse Principal Component Analysis for High Dimensional Vector Autoregressive Models (with nontrivial extension to principal subspace esitmation)]*}
+Zhaoran Wang, [http://www.biostat.jhsph.edu/~fhan/ Fang Han], [http://www.princeton.edu/~hanliu/ Han Liu] --- /submitted, May, 2013/.
+~~~
+
+~~~
+{}
+: {*A Strictly Contractive Peaceman-Rachford Splitting Method for Convex Programming*}
+[http://math.nju.edu.cn/~hebma/ Bingshen He], [http://www.princeton.edu/~hanliu/ Han Liu], Zhaoran Wang, [http://www.math.hkbu.edu.hk/people/xmyuan.html Xiaoming Yuan] --- /submitted, Feb, 2013/.
+~~~
+
+~~~
+{}
+: {*[http://jmlr.org/proceedings/papers/v31/wang13a.pdf Sparse Principal Component Analysis for High Dimensional Multivariate Time Series]*}
+Zhaoran Wang, [http://www.biostat.jhsph.edu/~fhan/ Fang Han], [http://www.princeton.edu/~hanliu/ Han Liu] --- /Sixteenth International Conference on Artificial Intelligence and Statistics (AISTATS), 2013/.
+~~~
+
+~~~
+{}
+: {*[http://dl.acm.org/citation.cfm?id=2335499 Pub/Sub on Stream: A Novel Message Broker on Streaming Framework with QoS support]*}
+Zhaoran Wang, Yu Zhang, Xiaotao Chang, Xiang Mi, Yu Wang, Kun Wang, Huazhong Yang --- /Sixth ACM International Conference on Distributed Event-Based Systems (DEBS), 2012/.
+~~~
